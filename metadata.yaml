@@ -1,5 +1,8 @@
 _repo: Miei-Pensieri-di-varia-Umanita_58579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58579-h/images/cover.jpg
 creator:
   author:
     agent_name: Pascoli, Giovanni
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41750'
     url: http://www.gutenberg.org/2009/agents/41750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58579#Miei-Pensieri-di-varia-Umanita
 gutenberg_issued: '2018-12-31'
 gutenberg_type: Text
 identifiers:
